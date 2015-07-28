@@ -1,0 +1,47 @@
+﻿  Animation.c
+  AnimationState.c
+  AnimationStateData.c
+  Atlas.c
+  AtlasAttachmentLoader.c
+  Attachment.c
+  AttachmentLoader.c
+  Bone.c
+  BoneData.c
+  BoundingBoxAttachment.c
+  Event.c
+  EventData.c
+  extension.c
+  IkConstraint.c
+  IkConstraintData.c
+  Json.c
+  MeshAttachment.c
+  RegionAttachment.c
+  Skeleton.c
+  SkeletonBounds.c
+  SkeletonData.c
+  SkeletonJson.c
+  Skin.c
+  SkinnedMeshAttachment.c
+  Slot.c
+  SlotData.c
+  PolygonBatch.cpp
+  SkeletonAnimation.cpp
+  SkeletonRenderer.cpp
+  spine-cocos2dx.cpp
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(229): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 参见“cocos2d::DrawPrimitives::setDrawColor4B”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(242): warning C4996: 'cocos2d::DrawPrimitives::drawPoly': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(109) : 参见“cocos2d::DrawPrimitives::drawPoly”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(248): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 参见“cocos2d::DrawPrimitives::setDrawColor4B”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(253): warning C4996: 'cocos2d::DrawPrimitives::drawLine': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(96) : 参见“cocos2d::DrawPrimitives::drawLine”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(256): warning C4996: 'cocos2d::DrawPrimitives::setPointSize': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(160) : 参见“cocos2d::DrawPrimitives::setPointSize”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(257): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 参见“cocos2d::DrawPrimitives::setDrawColor4B”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(260): warning C4996: 'cocos2d::DrawPrimitives::drawPoint': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(88) : 参见“cocos2d::DrawPrimitives::drawPoint”的声明
+d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(261): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': 被声明为已否决
+          d:\cocos2d-x\tests\cocos3dsamples\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 参见“cocos2d::DrawPrimitives::setDrawColor4B”的声明
+  libSpine.vcxproj -> D:\cocos2d-x\tests\Cocos3dSamples\proj.win32\Debug.win32\libSpine.lib
